@@ -62,9 +62,9 @@ A FinanCIA responde com dicas práticas e encorajadoras.
 
 ---
 
-## 📸 Prints e Vídeo de Demonstração
+## 📸  Vídeo de Demonstração
 
-
+<video src="assets/Deemonstração-FinanCIA.mp4" width="100%" controls></video>
 
 ### O que o vídeo mostra:
 - Tela inicial com menu de 6 categorias e mensagem de boas-vindas
