@@ -64,7 +64,7 @@ A FinanCIA responde com dicas práticas e encorajadoras.
 
 ## 📸 Prints e Vídeo de Demonstração
 
-*(Insira aqui os prints do seu app e o link do vídeo de demonstração)*
+
 
 ### O que o vídeo mostra:
 - Tela inicial com menu de 6 categorias e mensagem de boas-vindas
